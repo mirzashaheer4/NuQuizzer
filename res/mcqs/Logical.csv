@@ -1,0 +1,114 @@
+Difficulty,Question,OptionA,OptionB,OptionC,OptionD,Answer
+1,"What is the next number in the series: 2, 4, 6, 8, ?","9","10","12","11",B
+1,"If all roses are flowers and some flowers fade quickly, can it be inferred that some roses fade quickly?","Yes","No","Cannot be determined","Always",C
+1,"Which shape has 4 equal sides?","Square","Rectangle","Triangle","Circle",A
+1,"If John is older than Sam, and Sam is older than Tim, who is the youngest?","John","Sam","Tim","Cannot be determined",C
+1,"What is the next letter in the series: A, C, E, G, ?","H","I","J","K",B
+1,"Which number is odd?","2","4","5","8",C
+1,"Which one of these is not like the others?","Apple","Banana","Carrot","Mango",C
+1,"If two items cost $10 each, how much do three items cost?","$10","$20","$30","$40",C
+1,"What is the missing number in the series: 1, 3, 5, 7, ?","8","9","10","11",B
+1,"Which word is the antonym of 'difficult'?","Hard","Simple","Complex","Tough",B
+1,"Which number is a multiple of both 3 and 5?","10","15","18","20",B
+1,"If it takes 2 hours to travel 100 miles, how long will it take to travel 50 miles at the same speed?","0.5 hours","1 hour","1.5 hours","2 hours",B
+1,"If you rearrange the letters 'L I S T E N', you get which word?","Silent","Listen","Enlist","All of the above",D
+1,"What is the next number in the series: 5, 10, 15, 20, ?","25","30","35","40",A
+1,"Which of the following is a prime number?","4","6","7","9",C
+1,"If a car travels 60 miles in 1 hour, how far will it travel in 3 hours?","120 miles","180 miles","200 miles","240 miles",B
+1,"Which of these fractions is equivalent to 1/2?","2/4","3/4","1/3","2/3",A
+1,"If today is Monday, what day will it be tomorrow?","Tuesday","Wednesday","Thursday","Friday",A
+1,"Which one is the smallest number?","0.5","0.05","5","0.005",D
+1,"If you multiply any number by 0, the result is:","0","1","the number itself","Undefined",A
+1,"Which number comes next in the series: 1, 1, 2, 3, 5, ?","6","7","8","13",C
+1,"Which shape has three sides?","Square","Triangle","Circle","Rectangle",B
+1,"If a = 2 and b = 3, what is a + b?","4","5","6","7",B
+1,"What is the next letter in the series: B, D, F, H, ?","I","J","K","L",B
+1,"Which of the following is spelled correctly?","Recieve","Receive","Recive","Receeve",B
+1,"If a clock shows 3:00, what is the angle between the hour and minute hands?","90°","180°","0°","45°",B
+1,"Which option best completes the sequence: 10, 20, 30, ?, 50","35","40","45","50",B
+1,"What is the missing number: 2, 4, 8, 16, ?","24","32","20","18",B
+1,"If it takes 3 minutes to boil an egg, how many eggs can be boiled in 9 minutes (one at a time)?","2","3","4","6",B
+1,"What is the next number in the series: 3, 6, 9, 12, ?","13","14","15","16",C
+1,"Which of the following is not a logical fallacy?","Straw man","Red herring","Appeal to authority","Valid argument",D
+1,"Which statement is true: All squares are rectangles, or some rectangles are not squares?","All squares are rectangles","Some rectangles are not squares","Both A and B","Neither",C
+1,"If every A is B and every B is C, then every A is:","A","B","C","Not necessarily C",C
+1,"In a typical syllogism, the major premise is:","The conclusion","The general statement","The specific observation","A hypothesis",B
+1,"Which of the following best describes deductive reasoning?","Reasoning from the general to the specific","Reasoning from the specific to the general","Making guesses","Random thinking",A
+1,"Which of these is an example of an analogy?","Apple is to fruit as carrot is to vegetable","Cat is to dog as tree is to flower","Both A and B","None",A
+1,"If some X are Y and some Y are Z, can we conclude that some X are Z?","Yes","No","Always","Cannot be determined",D
+1,"What is the logical opposite of the statement: 'All birds can fly'?","No birds can fly","Some birds cannot fly","All birds cannot fly","Some birds can fly",B
+1,"If a statement is true, then its contrapositive is:","True","False","Unrelated","Sometimes true",A
+1,"Which of the following is an example of a self-fulfilling prophecy?","A prediction that causes itself to become true","A random event","A false belief","A logical fallacy",A
+1,"In logical reasoning, 'modus ponens' can be described as:","If P then Q; P is true; therefore, Q is true","If P then Q; Q is true; therefore, P is true","If P then Q; P is false; therefore, Q is false","If P then Q; Q is false; therefore, P is false",A
+1,"Which principle states that a statement and its negation cannot both be true?","Law of the Excluded Middle","Law of Noncontradiction","Principle of Duality","Principle of Identity",B
+1,"Which of the following best represents an inductive reasoning approach?","Drawing general conclusions from specific examples","Drawing specific conclusions from general principles","Deductive logic","None",A
+1,"If a/b = 2/3 and b = 9, what is the value of a?","6","9","12","18",A
+1,"If a puzzle states that 'All red cars are fast' and 'This car is red', what can be inferred?","The car is fast","The car is not fast","The car might be slow","No inference can be made",A
+2,"What is the missing number in the series: 2, 5, 10, 17, ?","26","28","30","32",A
+2,"In a certain code language, if 'SMART' is coded as 'RLZQS' (each letter shifted by -1), how is 'LOGIC' coded?","KNFHB","KNGHB","LNFHB","KMFHB",A
+2,"If all roses are red and some red things are expensive, which conclusion is logically valid?","All roses are expensive","Some roses may be expensive","No roses are expensive","All expensive things are roses",B
+2,"If 5 pencils cost $2, how much do 15 pencils cost?","$4","$5","$6","$7",C
+2,"Which of the following statements best describes the relationship: 'A is to B as C is to D'?","Proportional analogy","Causal relationship","Spatial relationship","Temporal relationship",A
+2,"Two mothers and two daughters go out to lunch. Only three people are present. How is this possible?","It is impossible","One person is both a daughter and a mother","They are not related","There is an error",B
+2,"If the day after tomorrow is Wednesday, what day is today?","Monday","Tuesday","Sunday","Saturday",A
+2,"What is the next number in the series: 1, 4, 9, 16, ?","20","24","25","36",C
+2,"Which is the odd one out?","2","3","5","9",D
+2,"If the ratio of boys to girls in a class is 3:2 and there are 30 students, how many girls are there?","12","15","18","10",A
+2,"Which statement best describes inductive reasoning?","Specific observations lead to a general conclusion","General principles lead to specific conclusions","Drawing conclusions from premises","Deductive logic",A
+2,"If the pattern is defined by the rule: a(n) = a(n-1) + 2n, and a(1)=1, what is a(4)?","13","15","17","19",D
+2,"Which logical fallacy is committed when someone attacks the person instead of the argument?","Straw man","Ad hominem","Red herring","False dilemma",B
+2,"If the statement 'If it rains, then the ground is wet' is true, what is the contrapositive?","If the ground is not wet, then it does not rain","If it does not rain, then the ground is not wet","If the ground is wet, then it rains","If it rains, then the ground is not wet",A
+2,"What is the next number in the series: 10, 7, 4, 1, ?","-1","0","-2","-3",C
+2,"Which of the following is an example of a necessary condition?","To drive a car, you must have a license","To win a race, you must be fast","To pass a test, you must study","To be a parent, you must have children",A
+2,"If a page is to a book, then a wheel is to a:","Car","Bicycle","Train","Plane",A
+2,"Which logical fallacy involves attacking the person instead of the argument?","Straw man","Ad hominem","Red herring","False dilemma",B
+2,"If the statement 'If P then Q' is true and P is false, what can be said about Q?","Q must be true","Q must be false","Nothing can be inferred about Q","Q is irrelevant",C
+2,"What is the next number in the series: 3, 6, __, 12, 15?","8","9","10","11",B
+2,"Which of the following best describes a self-fulfilling prophecy?","A prediction that causes itself to become true","A random event","A false belief","A logical fallacy",A
+2,"In a code language where each letter is shifted by -1, how is 'LOGIC' written?","KNFHB","KNGHB","LNFHB","KMFHB",A
+2,"If a train travels 120 miles in 2 hours, what is its speed?","50 mph","60 mph","70 mph","80 mph",B
+2,"Which pattern best describes the sequence: 2, 4, 8, 16, ?","Multiplying by 2","Adding 2","Squaring","Doubling then adding 1",A
+2,"In a puzzle, if you have 3 apples and you take away 2, how many do you have?","1","2","3","5",B
+2,"Which of the following is an example of a logical deduction?","All mammals breathe; whales are mammals; therefore, whales breathe","Some birds can fly; penguins are birds; therefore, penguins can fly","All fruits are sweet; lemons are fruits; therefore, lemons are sweet","None of the above",A
+2,"If the pattern is: 5, 10, 20, 40, ?, what is the next number?","60","70","80","90",C
+2,"Which of the following best describes the process of hypothesis testing in analytical reasoning?","Forming a conclusion without evidence","Testing a theory by gathering data","Accepting all data as true","Rejecting any hypothesis outright",B
+3,"In a complex logical puzzle, if A is older than B, B is older than C, and C is older than D, which of the following can be conclusively determined?","A is the oldest","D is the youngest","A is older than D","All of the above",D
+3,"Given the statement: 'If it rains, the match will be canceled', which of the following is the inverse of the statement?","If it does not rain, then the match will not be canceled","If the match is not canceled, then it did not rain","If it does not rain, the match will be canceled","If the match is canceled, it rained",A
+3,"In a puzzle involving three logicians with hats of either black or white, if they are told that at least one hat is black and after a moment all deduce their own hat color, what color are they wearing?","Black","White","Mixed","Cannot be determined",A
+3,"If the pattern is defined by the rule: a(n) = a(n-1) + 2n, and a(1)=1, what is a(4)?","13","15","17","19",D
+3,"Which of the following is an example of a non sequitur?","All dogs have four legs; therefore, my pet must be a dog","It is raining, so the ground is wet","If you study, you will pass the exam","The car is red, so it must be fast",D
+3,"In a logic puzzle, if 'Some S are P' and 'No P are Q', which of the following is a valid conclusion?","Some S are not Q","No S are Q","All S are Q","Cannot be determined",D
+3,"If the statement 'Either A or B is true' holds, and A is false, what can be deduced?","A is true","B is true","Both are true","Neither is true",B
+3,"A puzzle states: 'I am a liar. Everything I say is false.' What paradox does this represent?","The liar paradox","Russell's paradox","Zeno's paradox","The barber paradox",A
+3,"Which of the following best defines 'syllogism'?","A form of deductive reasoning","An inductive argument","A logical fallacy","An analogy",A
+3,"What is the next number in the series: 2, 3, 5, 7, 11, ?","12","13","14","15",B
+3,"In a puzzle, if the ratio of red to blue marbles is 3:4 and there are 28 blue marbles, how many red marbles are there?","21","24","18","14",A
+3,"Which of the following is an example of an ad absurdum argument?","Reductio ad absurdum","Appeal to emotion","Straw man","Begging the question",A
+3,"If a logic puzzle requires determining the thief among 4 suspects and 3 statements are given with one false statement, which reasoning method is most appropriate?","Process of elimination","Inductive reasoning","Coin toss","Random guess",A
+3,"Which mathematical concept is most closely associated with the term 'non-Euclidean'?","Geometry","Algebra","Calculus","Statistics",A
+3,"If an argument is valid, what does that imply?","The conclusion is true","The premises are true","If the premises are true, then the conclusion must be true","The argument is persuasive",C
+3,"In a complex puzzle, if every member of a set has exactly 3 attributes, and there are 10 members with no overlapping attributes, how many attributes are there in total?","10","20","30","40",C
+3,"Which of the following best illustrates the 'if-then' logical structure?","If it rains, then the ground gets wet","The ground gets wet, so it must have rained","It rains and the ground gets wet","None of the above",A
+3,"In a puzzle, if a person states 'All statements I make are false', what logical problem does this create?","A paradox","A syllogism","A circular argument","A false dilemma",A
+3,"If the pattern is defined as: a(n) = 2^n - 1, what is a(5)?","15","31","63","127",B
+3,"Which of the following is an example of circular reasoning?","The Bible is true because it is the word of God, and we know it is the word of God because the Bible says so","All men are mortal; Socrates is a man; therefore, Socrates is mortal","I think, therefore I am","None of the above",A
+3,"In logical terms, what does the 'biconditional' mean?","If and only if","Either-or","Not both","Neither-nor",A
+3,"Which of the following is most representative of a 'logical paradox'?","This statement is false","All bachelors are unmarried","Water is H2O","The Earth orbits the Sun",A
+3,"If a person states, 'I am lying right now', this statement is an example of:","A paradox","A fact","A hypothesis","A syllogism",A
+3,"Which reasoning method involves generalizing from specific cases?","Deductive reasoning","Inductive reasoning","Abductive reasoning","Circular reasoning",B
+3,"What is the next number in the series: 1, 3, 6, 10, 15, ?","20","21","22","23",B
+3,"In a logic puzzle, if Person X says 'Person Y is lying' and Person Y says 'Person X is lying', what can be deduced?","Both are telling the truth","Both are lying","Exactly one is telling the truth","The statements cancel out",C
+3,"Which of the following is a characteristic of a well-formed formula in logic?","It follows syntactical rules","It is always true","It has no variables","It is in plain English",A
+3,"If an argument commits the fallacy of 'false dilemma', it:","Presents only two alternatives when more exist","Attacks the character of an opponent","Distracts from the main issue","Uses circular reasoning",A
+3,"Which principle asserts that for any proposition, either that proposition is true or its negation is true?","Law of Noncontradiction","Law of Excluded Middle","Principle of Bivalence","Principle of Identity",B
+3,"In probability, what is the likelihood of an impossible event?","0","0.5","1","Undefined",A
+3,"If two events are independent, the probability of both occurring is:","The sum of their probabilities","The product of their probabilities","The difference of their probabilities","Zero",B
+3,"Which of the following best represents a conundrum?","A confusing and difficult problem or question","A simple arithmetic problem","A straightforward logical statement","An irrelevant fact",A
+3,"Which logical operator is represented by '∧'?","OR","AND","NOT","XOR",B
+3,"If all humans are mortal and Socrates is human, what type of reasoning is used to conclude that Socrates is mortal?","Inductive","Deductive","Abductive","Analogical",B
+3,"Which fallacy involves assuming that because something was true in the past, it must be true now?","Appeal to tradition","Appeal to novelty","Straw man","Slippery slope",A
+3,"In a puzzle, if the sum of two numbers is 15 and their difference is 3, what is the larger number?","6","9","12","8",B
+3,"Which of the following best describes a Venn diagram?","A diagram showing logical relationships between sets","A flowchart of processes","A timeline of events","A mathematical equation",A
+3,"If a hypothesis is falsifiable, what does that imply?","It can be proven false","It is true","It cannot be tested","It is based on opinion",A
+3,"In critical thinking, which of the following is essential for evaluating arguments?","Analyzing assumptions","Ignoring evidence","Accepting conclusions without question","Relying solely on intuition",A
+3,"Which of the following represents an example of lateral thinking?","Approaching a problem from a new perspective","Following standard procedures","Using only logical deduction","Relying on past experiences",A
