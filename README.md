@@ -10,6 +10,7 @@ NuQuizzer is a quiz application that tests your knowledge. This app was built in
 - [Controls](#controls)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
+- [License](#license)
 
 
 
@@ -52,6 +53,12 @@ The quiz app has two modes.
 ## Team Members
 
 - [Mikail Khan](https://github.com/mikailkhan/)
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Regards,**
 **Shaheer**
