@@ -35,7 +35,7 @@ The quiz app has two modes.
 ## Installation
 
 1. Run the code in the terminal
-<pre> git clone https://github.com/xicon12/NuQuizzer.git </pre>
+<pre> git clone https://github.com/mirzashaheer4/NuQuizzer.git </pre>
 2. In VSCode run the Main.py in src folder 
 
 
@@ -53,6 +53,9 @@ The quiz app has two modes.
 ## Team Members
 
 - [Mikail Khan](https://github.com/mikailkhan/)
+- [Ali Sufyan Shah](https://github.com/alisufyans)
+- [Hasnat Aleem](https://github.com/hsnataleem)
+- [Nihal Jawaid](https://github.com/nihaljawaid)
 
 
 
@@ -61,4 +64,4 @@ The quiz app has two modes.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Regards,**
-**Shaheer**
+**Mirza Shaheer**
